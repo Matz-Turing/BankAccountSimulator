@@ -44,7 +44,7 @@ Este projeto fornece experiência prática em:
 - Implementação e aplicação de regras e restrições de negócios.
 - Aplicação de conceitos de programação orientada a objetos para resolver problemas práticos.
 
-Ao trabalhar neste projeto, você obterá insights valiosos sobre como projetar e gerenciar transações financeiras dentro de uma aplicação de software, o que é crucial para o desenvolvimento de sistemas robustos e confiáveis.
+Ao trabalhar neste projeto, eu obtenho insights valiosos sobre como projetar e gerenciar transações financeiras dentro de uma aplicação de software, o que é crucial para o desenvolvimento de sistemas robustos e confiáveis.
 
 ## Créditos
 
