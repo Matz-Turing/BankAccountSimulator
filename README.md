@@ -1,5 +1,7 @@
 # Simulador de Contas Bancárias
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 **Objetivo:**
 
 Este projeto tem como objetivo criar uma aplicação Java simples para simular operações bancárias básicas. Ele ajuda a entender conceitos de programação orientada a objetos, modelando contas bancárias e implementando funcionalidades para depósitos, saques e transferências. O exercício inclui a aplicação de regras específicas para cada operação, proporcionando experiência prática na implementação de lógica de negócios dentro de uma aplicação de software.
